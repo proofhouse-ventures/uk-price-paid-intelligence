@@ -1,8 +1,6 @@
-# UK Price Paid Intelligence — England & Wales Property Sales Archive 1995–Present
+# UK Property Sale Prices 1995–2026 — 31.7M Transactions for Investors & Valuation Models
 
-Searchable, programmatic access to every residential property sale in England and Wales lodged with HM Land Registry for registration since January 1995 — the complete Price Paid Data archive, 31,702,685 transactions — plus genuinely derived analytics computed from that archive: median and mean price by county, district, town/city, property type, tenure and postcode area/district, new-build share, and transaction volume by month and year.
-
-Built for property analysts, investors, researchers, proptech builders, and the agents and tools that work for them — inside Apify, where per-result pricing means you pay only for the rows you pull.
+Every recorded residential sale in England & Wales since 1995 — 31,702,685 transactions with price, date, property type, tenure and address — from HM Land Registry's Price Paid Data. Built for investors screening UK markets, valuation and AVM teams training on complete (not sampled) price history, and researchers who need the full register rather than a portal scrape. Crown copyright data published under the Open Government Licence; snapshot-dated, not a live feed.
 
 ## What you get
 
